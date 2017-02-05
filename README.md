@@ -7,6 +7,7 @@
     * `Android SDK Build-tools version 21.1.2`
     * `SDK Platform version 21`
     * `Android Support Respository`
+    
 ## Running
 * To run on an android device use:
 
